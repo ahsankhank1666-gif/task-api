@@ -58,6 +58,6 @@ DELETE FROM tasks WHERE done = 1;
 ---
 
 ## 📸 Database Viewer Screenshot
-![Database Screenshot](docs/screenshoot1.PNG)
+![Database Screenshot](docs/screenshoot1.png)
 
-![Database Screenshot](docs/screenshoot2.PNG)
+![Database Screenshot](docs/screenshoot2.png)
