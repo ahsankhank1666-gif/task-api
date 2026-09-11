@@ -33,6 +33,12 @@ uvicorn main:app --reload
 
 3. Open Swagger UI Docs:
 - `http://127.0.0.1:8000/docs`
+- <img width="1181" height="887" alt="image" src="https://github.com/user-attachments/assets/7414ad99-4002-4529-8f3e-7feb25a8a5da" />
+<img width="1209" height="911" alt="image" src="https://github.com/user-attachments/assets/9ad296f5-f379-446e-860c-13219288ce21" />
+<img width="1222" height="842" alt="image" src="https://github.com/user-attachments/assets/21af6b91-0c1a-4deb-a83d-09834b66d66c" />
+
+
+
 
 ---
 
