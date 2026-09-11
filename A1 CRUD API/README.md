@@ -37,5 +37,7 @@ content-type: application/json
 {"status":"ok"}
 
 Swagger UI Screenshot:
+<img width="1704" height="788" alt="image" src="https://github.com/user-attachments/assets/7264c005-2e28-4a2c-9caf-11e659899250" />
+
 
    
