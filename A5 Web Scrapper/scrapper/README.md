@@ -17,6 +17,8 @@
 * **Schema:** `BookRecord(title: str, product_url: HttpUrl, price_text: str, price_gbp: float, availability_text: str, rating_text: str, description: Optional[str], source_page: HttpUrl, fetched_at: str)`.
 
 ## Proof of Run
+<img width="1838" height="1015" alt="image" src="https://github.com/user-attachments/assets/72a60b20-1844-45ce-a380-ab35377bb0c1" />
+
 ```json
 {
   "start_time": "2026-09-24T08:12:23Z",
@@ -28,5 +30,5 @@
   "failed_pages": 1
 }
 
-<img width="1838" height="1015" alt="image" src="https://github.com/user-attachments/assets/821c151b-66c2-46e5-a9e8-54442ccfa5db" />
+
 
