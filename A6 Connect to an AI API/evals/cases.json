@@ -1,0 +1,10 @@
+[
+  {"text": "Where can I download my monthly invoice?", "expected_category": "billing"},
+  {"text": "The checkout page gives me a 500 server error.", "expected_category": "bug"},
+  {"text": "It would be great if you added a dark mode.", "expected_category": "feature"},
+  {"text": "What time does your support team go home?", "expected_category": "other"},
+  {"text": "My credit card keeps getting declined.", "expected_category": "billing"},
+  {"text": "The submit button disappears on mobile devices.", "expected_category": "bug"},
+  {"text": "Can you integrate with Google Calendar?", "expected_category": "feature"},
+  {"text": "What is the capital of France?", "expected_category": "other"}
+]
