@@ -1,4 +1,4 @@
-# Week 7: Put an LLM Behind Your API (Backend Track Assignment A17)
+# Week 6: Put an LLM Behind Your API 
 
 ## Overview
 This project adds a production-ready `/triage` endpoint to our FastAPI application. It takes a customer support message, routes it through an LLM via OpenRouter, and returns a strictly validated JSON payload.
@@ -14,6 +14,8 @@ This project adds a production-ready `/triage` endpoint to our FastAPI applicati
 * **Lane:** Python (FastAPI, OpenAI SDK, Pydantic)[cite: 4]
 * **Provider / Model:** OpenRouter (`openrouter/free`)[cite: 4]
 * **Run Command:** `uvicorn src.main:app --reload`[cite: 4]
+* ![alt text](image.png)
+![alt text](image-1.png)
 
 **Test Command:**
 ```bash
@@ -40,5 +42,3 @@ Eval Set: 8 test cases in evals/cases.json[cite: 4].
 
 Score: 8 / 8 passed (Date: 2026-09-24, Prompt Version: triage-v1.md)[cite: 4].
 
-![alt text](image.png)
-![alt text](image-1.png)
