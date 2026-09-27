@@ -26,6 +26,9 @@ The system utilizes a relational PostgreSQL structure:
 1.  `journal_entries`: Stores the user's `UUID` and `raw_text` logs.
 2.  `entry_analyses`: Linked via `entry_id` foreign key. Stores the generated `distortions` array and `reframed_thought`.
 
+![alt text](image.png)
+
+
 ## Local Setup & Installation
 
 ### 1. Clone the Repository
@@ -58,4 +61,4 @@ docker build -t cbt-api .
 # Run the container (mapping port 8000 and passing environment variables)
 docker run -p 8000:8000 --env-file .env cbt-api
 
-![alt text](image.png)
+
