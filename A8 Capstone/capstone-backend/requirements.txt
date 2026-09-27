@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-supabase
-upstash-redis
-google-generativeai
-reportlab
-pydantic
